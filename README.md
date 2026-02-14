@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Zack [Wondirad]! 👋
 
-<!--
-**zackded/Zackded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science student** with a deep-seated passion for the tech world. I am an optimistic, lifelong learner who thrives on tackling new challenges and constantly improving my technical craft.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Focused On
+I am particularly enthusiastic about building robust systems and exploring the "under the hood" mechanics of software. My interests include:
+* **Backend Logic & Architecture**
+* **Algorithms & Data Structures**
+* **Cybersecurity**
+* **AI Development**
+* **Networking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+I am a programmer who enjoys solving problems through code, primarily using:
+* **Languages:** Java, Python, and PHP
+* **Build Tools:** Sql, Maven and Gradle
+
+### 📂 My Work
+I have developed various projects across different complexity levels—from academic assignments to personal passion projects. You can explore my repositories below to get a preview of my coding style and logic.
